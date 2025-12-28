@@ -1,1 +1,1 @@
-# Loan-Management-Analysis-Using-SQL
+# Loan-Management-System-Analysis-Using-SQL
